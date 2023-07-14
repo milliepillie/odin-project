@@ -1,0 +1,36 @@
+*{
+    background-color: #1f2937;
+    color:white;
+    font-family: 'Roboto';
+
+}
+button{
+    color: white;
+    background-color: #3882F6;
+    width: 100px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+}
+.two, .img-v2, .two-sub{
+    background-color: white;
+    color:#1f2937;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    color:#1f2937;
+    background-color: white;
+}
+.three, .quote, .author{
+    background-color: #e5e7eb;
+    color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+.four, h3, .sign{
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: column;
+}
