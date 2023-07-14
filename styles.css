@@ -1,4 +1,13 @@
 
+.navigation{
+    border: 5px solid black;
+    display: flex;
+    gap: 8px;   
+}
+.navigation > div {
+    flex:1;
+}
+
 body{
     line-height: 1.5;
     padding: 30px;
